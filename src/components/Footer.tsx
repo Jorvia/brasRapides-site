@@ -114,10 +114,10 @@ export default function Footer() {
                   <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z" />
                 </svg>
                 <a
-                  href="tel:+33123456789"
+                  href="tel:+33666631454"
                   className="hover:text-white transition-colors"
                 >
-                  +33 1 23 45 67 89
+                  +33 6 66 63 14 54
                 </a>
               </div>
               <div className="flex items-center">
@@ -165,7 +165,7 @@ export default function Footer() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="tel:+33123456789"
+                href="tel:+33666631454"
                 className="bg-white text-[#5073C0] hover:bg-gray-100 px-8 py-4 rounded-lg font-semibold text-lg transition-colors flex items-center justify-center gap-2"
               >
                 <svg
@@ -190,7 +190,7 @@ export default function Footer() {
         {/* Mentions légales */}
         <div className="mt-8 pt-8 border-t border-gray-700">
           <div className="flex flex-col md:flex-row justify-between items-center text-gray-400 text-sm">
-            <div>© 2024 Bras Rapides. Tous droits réservés.</div>
+            <div>© 2025 Bras Rapides. Tous droits réservés.</div>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#" className="hover:text-white transition-colors">
                 Mentions légales

@@ -48,7 +48,7 @@ export default function Header() {
           {/* Bouton Appeler Desktop */}
           <div className="hidden md:flex items-center space-x-4">
             <a
-              href="tel:+33123456789"
+              href="tel:+33666631454"
               className="bg-[#5073C0] hover:bg-[#4561A8] text-white px-6 py-2 rounded-lg font-medium transition-colors phone-pulse"
             >
               📞 Appeler maintenant
@@ -116,7 +116,7 @@ export default function Header() {
                 Contact
               </a>
               <a
-                href="tel:+33123456789"
+                href="tel:+33666631454"
                 className="block w-full mt-4 bg-[#5073C0] hover:bg-[#4561A8] text-white px-6 py-2 rounded-lg font-medium transition-colors text-center"
               >
                 📞 Appeler maintenant

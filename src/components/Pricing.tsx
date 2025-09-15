@@ -2,7 +2,7 @@ export default function Pricing() {
   const plans = [
     {
       name: "Studio/1 pièce",
-      price: "À partir de 299€",
+      price: "À partir de 399€",
       description: "Idéal pour un studio ou une chambre",
       features: [
         "Emballage inclus",
@@ -15,7 +15,7 @@ export default function Pricing() {
     },
     {
       name: "2-3 pièces",
-      price: "À partir de 499€",
+      price: "À partir de 599€",
       description: "Parfait pour un appartement",
       features: [
         "Emballage complet",
@@ -103,7 +103,7 @@ export default function Pricing() {
 
               <div className="space-y-3">
                 <a
-                  href="tel:+33123456789"
+                  href="tel:+33666631454"
                   className={`block w-full py-3 px-6 rounded-lg font-semibold transition-colors text-center ${
                     plan.popular
                       ? "bg-[#5073C0] hover:bg-[#4561A8] text-white"
@@ -207,7 +207,7 @@ export default function Pricing() {
                 </p>
                 <div className="space-y-3">
                   <a
-                    href="tel:+33123456789"
+                    href="tel:+33666631454"
                     className="block w-full bg-[#5073C0] hover:bg-[#4561A8] text-white px-6 py-3 rounded-lg font-medium transition-colors"
                   >
                     📞 Appeler pour un devis

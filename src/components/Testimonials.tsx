@@ -114,7 +114,7 @@ export default function Testimonials() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="tel:+33123456789"
+                href="tel:+33666631454"
                 className="bg-white text-[#5073C0] hover:bg-gray-100 px-8 py-3 rounded-lg font-semibold transition-colors flex items-center justify-center gap-2"
               >
                 <svg

@@ -148,7 +148,7 @@ export default function Services() {
                 </p>
                 <div className="space-y-3">
                   <a
-                    href="tel:+33123456789"
+                    href="tel:+33666631454"
                     className="block w-full bg-[#5073C0] hover:bg-[#4561A8] text-white px-6 py-3 rounded-lg font-medium transition-colors"
                   >
                     📞 Appeler maintenant
