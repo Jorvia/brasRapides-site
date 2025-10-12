@@ -53,6 +53,7 @@ export default function Contact() {
         );
       }
     } catch (error) {
+      console.error("Error submitting form:", error);
       setSubmitStatus("error");
       setSubmitMessage("Erreur de connexion. Veuillez réessayer.");
     } finally {
@@ -151,7 +152,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <div className="font-semibold text-gray-900">
-                      Zone d'intervention
+                      Zone d&apos;intervention
                     </div>
                     <div className="text-gray-600">Partout en France</div>
                   </div>
@@ -182,7 +183,7 @@ export default function Contact() {
             {/* Bouton d'appel rapide */}
             <div className="bg-[#F8E5D4] rounded-xl p-6">
               <h4 className="text-lg font-semibold text-gray-900 mb-3">
-                Besoin d'une réponse immédiate ?
+                Besoin d&apos;une réponse immédiate ?
               </h4>
               <p className="text-gray-600 mb-4">
                 Appelez-nous directement pour un devis rapide

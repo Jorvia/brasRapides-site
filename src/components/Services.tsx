@@ -34,8 +34,8 @@ export default function Services() {
             Nos Services
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Une solution complète pour votre déménagement, de l'emballage à la
-            livraison
+            Une solution complète pour votre déménagement, de l&apos;emballage à
+            la livraison
           </p>
         </div>
 
@@ -141,7 +141,7 @@ export default function Services() {
             <div className="text-center">
               <div className="bg-white rounded-xl p-8 shadow-lg">
                 <h4 className="text-xl font-semibold text-gray-900 mb-4">
-                  Besoin d'informations ?
+                  Besoin d&apos;informations ?
                 </h4>
                 <p className="text-gray-600 mb-6">
                   Contactez-nous dès maintenant pour toutes vos questions

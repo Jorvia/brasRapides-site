@@ -110,7 +110,7 @@ export default function Pricing() {
                       : "bg-[#B54340] hover:bg-[#A03A37] text-white"
                   }`}
                 >
-                  📞 Appeler pour plus d'infos
+                  📞 Appeler pour plus d&apos;infos
                 </a>
                 <a
                   href="#contact"

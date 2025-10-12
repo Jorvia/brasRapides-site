@@ -14,8 +14,8 @@ export default function Hero() {
 
             <p className="text-xl text-gray-600 leading-relaxed">
               Service rapide, fiable, partout en France. Notre équipe
-              professionnelle s'occupe de tout pour que votre déménagement se
-              passe en douceur.
+              professionnelle s&apos;occupe de tout pour que votre déménagement
+              se passe en douceur.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4">
